@@ -1,0 +1,43 @@
+body{
+    background-image: url('img/bg1.jpeg');
+
+}
+
+h1{
+    text-align: center;
+    color: white;
+}
+
+h3 {
+    text-align: center;
+    color: white;
+}
+
+p {
+    text-align: center;
+    color: white;
+}
+
+#mastodon-link {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#texti {
+    font-size: 70%;
+    color: white;
+    text-align: center;
+}
+
+#fernanflo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#pharaohs{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
